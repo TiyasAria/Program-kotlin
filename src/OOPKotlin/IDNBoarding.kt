@@ -1,0 +1,4 @@
+package OOPKotlin
+
+class IDNBoarding {
+}
